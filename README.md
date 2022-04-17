@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ibrokhimkamolov
 - 👀 I’m interested in programming and actually creating something new in this world!
-- 🌱 I’m currently learning Python, Django and FastAPI. And for now I can say that I am very excited in tehm all.
+- 🌱 I’m currently finishing learning and practicing Python and Django. And for now I can say that I am very excited in both.
 - 💞️ I’m looking to collaborate on creating some web applications.
 - 📫 How to reach me you can contact my via my email kamolibr0002@gmail.com
 
